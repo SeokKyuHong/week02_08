@@ -1,5 +1,4 @@
 import sys
-from tabnanny import check
 sys.stdin = open("input.txt","r")
 # 07. https://www.acmicpc.net/problem/2630 : 색종이 만들기
 input = sys.stdin.readline
